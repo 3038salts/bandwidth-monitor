@@ -1,4 +1,4 @@
-# bandwidth-monitor
+# About
 A simple bandwidth monitor using Python and Tkinter.
 
 # How to use?
